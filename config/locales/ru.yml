@@ -1334,3 +1334,6 @@ ru:
   setting_timelog_accept_0_hours: Accept time logs with 0 hours
   setting_timelog_max_hours_per_day: Maximum hours that can be logged per day and user
   label_x_revisions: "%{count} revisions"
+  setting_issue_html_title: Формат вкладки браузера у задач
+  label_issue_html_title_number_first: "#Номер Трекер: Тема"
+  label_issue_html_title_tracker_first: "Трекер #Номер: Тема"

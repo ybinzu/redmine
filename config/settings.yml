@@ -306,3 +306,5 @@ timelog_accept_0_hours:
 timelog_max_hours_per_day:
   format: int
   default: 999
+issue_html_title:
+  default: 0
